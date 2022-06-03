@@ -6,7 +6,7 @@
     <RootNamespace>Daily_Class</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Daily_Class.Delegate_Concept.PredicateDelegates</StartupObject>
+    <StartupObject>Daily_Class.Delegate_Concept.EventBaseDelegate</StartupObject>
   </PropertyGroup>
 
 </Project>
